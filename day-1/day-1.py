@@ -32,6 +32,7 @@ def part2():
                 arr.append(sum)
         counter += 1
         print("Iterated " + str(counter) + " times")
+        print(sum)
         f.close()
 
 
